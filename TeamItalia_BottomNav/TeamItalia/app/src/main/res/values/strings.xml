@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Team Italia</string>
+    <string name="badge_team" />
+    <string name="team_name">Team Name</string>
+    <string name="serie_c">SERIE C</string>
+    <string name="serie_b">SERIE B</string>
+    <string name="serie_a">SERIE A</string>
+</resources>
